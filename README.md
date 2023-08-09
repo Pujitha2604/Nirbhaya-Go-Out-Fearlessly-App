@@ -1,4 +1,4 @@
-# Nirbhaya-Go Out Fearlessly App
+# Nirbhaya - Go Out Fearlessly App
 The Nirbhaya App is a safety-oriented web application aimed at empowering women to enhance their personal safety and security.This app is designed to provide users with tools and information to ensure their safety, particularly in vulnerable situations.
 
 **#Features:**
